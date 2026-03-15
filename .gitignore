@@ -1,0 +1,3 @@
+# .gitignore
+go.work
+go.work.sum
