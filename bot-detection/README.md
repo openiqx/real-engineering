@@ -23,7 +23,7 @@ The observe tier exists deliberately. Suspending one account alerts the operator
 
 ## Architecture
 
-![Bot Detection Pipeline](./assets/architecture.png)
+![Bot Detection Pipeline](./assets/architecture.svg)
 
 ## File structure
 
@@ -57,7 +57,6 @@ This code accompanies a long-form post that walks through the problem, the archi
 
 - [Substack](https://your-substack-url)
 - [Dev.to](https://your-devto-url)
-- [Medium](https://your-medium-url)
 
 ## Follow along
 
