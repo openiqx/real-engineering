@@ -10,3 +10,5 @@ Each folder is a self-contained problem with its own module.
 | Folder | Problem |
 |---|---|
 | `bot-detection` | How platforms detect a coordinated bot campaign |
+| `face-recognition` | How photo apps recognize your face across 10 years of aging |
+
