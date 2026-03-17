@@ -51,13 +51,6 @@ go run .
 - Internal/external edge ratio for graph island detection
 - Jaccard similarity on character bigrams for near-duplicate content detection
 
-## Read the full write-up
-
-This code accompanies a long-form post that walks through the problem, the architecture, and every design decision in detail.
-
-- [Substack](https://your-substack-url)
-- [Dev.to](https://your-devto-url)
-
 ## Follow along
 
 New problems drop regularly across these platforms:
